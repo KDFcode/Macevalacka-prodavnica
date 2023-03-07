@@ -1,0 +1,16 @@
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover {
+	color: #333;
+	background-color: #7F0000;
+	text-decoration: none;
+}
+
+iframe {
+	border: 0;
+	width: 550px;
+	height: 450px;
+}
+
+blockquote {
+    border-left: 5px solid #7F0000;
+}
