@@ -27,7 +27,7 @@
  <script src="js/vreme.js"></script>
  <script src="js/citati.js"></script>
 
-<!--   screenshot 5214 vidi za MVC paralele -->
+
 
 
 </body>
